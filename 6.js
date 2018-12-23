@@ -8,14 +8,15 @@
 
 const position = (str) => {
 	let result = ''
-	for(let i=0; i<str.length; i++) {
+	let i
+	for(i=0; i<str.length; i++) {
 		if('A'<=str[i] && str[i]<='Z') {
 			result += str[i]
 			result += ' '
 			return result += i
 		}
 	}
-	return -1
+	return (str.length-1)-i
 }
 
 console.log(position("abcd"))
