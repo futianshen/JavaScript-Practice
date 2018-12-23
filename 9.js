@@ -1,6 +1,6 @@
 //練習九：回傳陣列裡面所有小於 n 的數
 
-// 怎麼用 filter 做這件事情 ？
+// 怎麼用 filter 解這個題目 ？
 
 let findAllSmall = (arr, n) => {
 	let newArr = []
