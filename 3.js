@@ -11,10 +11,6 @@ function star(n) {
 	console.log(repeat)
 }
 
-
-
-
-
 /* function starConsole(n) {
 	var result =''
 	do {
