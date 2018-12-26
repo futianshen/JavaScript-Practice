@@ -1,8 +1,8 @@
 tree(1)
 tree(2)
 tree(5)
-tree(5)
 tree(10)
+
 function tree(n) {
 	leaf(n)
 	trunk(n)
@@ -10,19 +10,16 @@ function tree(n) {
 }
 
 function leaf(n) {
-	if(n===1) console.log('*')
-	else {
-		for(let i=1; i<=n; i++) {
-			let leaf = ''
-			for(let j=i; j<n; j++) {
-				leaf += ' '
-			}
-			leaf += '*'
-			for(let j=i; 1<j; j--) {
-				leaf += '**'
-			}
-			console.log(leaf)
+	for(let i=1; i<=n; i++) {
+		let leaf = ''
+		for(let j=i; j<n; j++) {
+			leaf += ' '
 		}
+		leaf += '*'
+		for(let j=i; 1<j; j--) {
+			leaf += '**'
+		}
+		console.log(leaf)
 	}
 }
 
