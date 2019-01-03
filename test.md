@@ -26,6 +26,7 @@
 25. 給定一個數字 n，回傳 n 是否為質數。（質數的定義：除了 1 以外，沒辦法被所有 < n 的正整數整除）
 26. [打不倒的空氣人](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/10)
 27. [白飯](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/11)
+28. [不公平的人是誰？](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/9)
 
 ### 如何刷題
 解題分為兩個維度
@@ -40,7 +41,8 @@
 找到模式的切換點 *模式切換*
 
 # 語法
-`continue` 跳入下一個迴圈
+`continue` 結束這次迴圈，進入下一次迴圈
+`break` 結束並跳出迴圈
 - 內建函式
   - `split()` 26
   - `slice()` 26 *不熟*
