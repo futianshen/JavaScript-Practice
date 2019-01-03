@@ -24,6 +24,8 @@
 23. 接收一個數字 n，按照規律列印出大小為 n 的聖誕樹
 24. 接收一個代表圈圈叉叉的陣列，並回傳贏的是 O 還是 X，如果平手或還沒下完，請回傳 draw。
 25. 給定一個數字 n，回傳 n 是否為質數。（質數的定義：除了 1 以外，沒辦法被所有 < n 的正整數整除）
+26. [打不倒的空氣人](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/10)
+27. [白飯](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/11)
 
 ### 如何刷題
 解題分為兩個維度
@@ -38,5 +40,7 @@
 找到模式的切換點 *模式切換*
 
 # 語法
-continue 跳入下一個迴圈
-
+`continue` 跳入下一個迴圈
+- 內建函式
+  - `split()` 26
+  - `slice()` 26 *不熟*
