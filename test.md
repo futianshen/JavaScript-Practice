@@ -27,6 +27,8 @@
 26. [打不倒的空氣人](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/10)
 27. [白飯](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/11)
 28. [不公平的人是誰？](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/9)
+29. [黑澀會美眉](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/8)
+30. [友好數](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/12)
 
 ### 如何刷題
 解題分為兩個維度

@@ -8,6 +8,9 @@ console.log(pb('123555','456'))
 // 解題重點
 // 浮點數誤差 continue
 
+// 1901 比較兩次語法差別
+
+
 // 190103
 function pb(strM, strN) {
   if(strM.length>strN.length) return 'Unfair'
