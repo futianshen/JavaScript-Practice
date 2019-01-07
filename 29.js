@@ -19,6 +19,7 @@ function cut(str) {
   let name = ''
   let number = ''
   for(let i=0; i<str.length; i++) {
+    
     if(str[i]===' ') {
       if(counter===1) for(let j=0; j<i; j++) name += str[j]
       counter++
