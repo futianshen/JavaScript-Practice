@@ -30,6 +30,7 @@
 29. [黑澀會美眉](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/8)
 30. [友好數](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/12)
 31. [優惠方案](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/13)
+32. [首領的名字](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/14)
 
 ### 如何刷題
 解題分為兩個維度
