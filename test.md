@@ -31,7 +31,9 @@
 30. [友好數](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/12)
 31. [優惠方案](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/13)
 32. [首領的名字](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/14)
-33. []
+33. [電費系統](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/15)
+34. [棒球練習](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/18)
+35. [沙之國](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/16)
 
 ### 如何刷題
 解題分為兩個維度
