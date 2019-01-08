@@ -31,6 +31,7 @@
 30. [友好數](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/12)
 31. [優惠方案](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/13)
 32. [首領的名字](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/14)
+33. []
 
 ### 如何刷題
 解題分為兩個維度
@@ -50,3 +51,17 @@
 - 內建函式
   - `split()` 26
   - `slice()` 26 *不熟*
+
+將內建函式自己寫一次
+自己寫測試
+
+## 為什麼錯 ?
+``` 
+for(let i=0; i<positions.length; i+2) {
+    console.log(i)
+    let difference = positions[i+2]-positions[i]
+    if(difference>0) price += difference*20
+    if(difference<0) price += difference*10
+  }
+
+···
