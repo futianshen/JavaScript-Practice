@@ -34,6 +34,7 @@
 33. [電費系統](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/15)
 34. [棒球練習](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/18)
 35. [沙之國](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/16)
+36. [PK 賽](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/17)
 
 ### 如何刷題
 解題分為兩個維度
