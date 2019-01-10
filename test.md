@@ -35,6 +35,7 @@
 34. [棒球練習](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/18)
 35. [沙之國](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/16)
 36. [PK 賽](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/17)
+37. [草地上的松鼠](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/22)
 
 ### 如何刷題
 解題分為兩個維度
@@ -59,12 +60,11 @@
 自己寫測試
 
 ## 為什麼錯 ?
-``` 
+``` js
 for(let i=0; i<positions.length; i+2) {
-    console.log(i)
-    let difference = positions[i+2]-positions[i]
-    if(difference>0) price += difference*20
-    if(difference<0) price += difference*10
-  }
-
+  console.log(i)
+  let difference = positions[i+2]-positions[i]
+  if(difference>0) price += difference*20
+  if(difference<0) price += difference*10
+}
 ···
