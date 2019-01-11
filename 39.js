@@ -4,9 +4,7 @@ function pa(birthday) {
   let result
   while(num.length!==1) {
     result = 0
-    for(let i=0; i<num.length; i++) {
-      result += Number(num[i])
-    }
+    for(let i=0; i<num.length; i++) result += Number(num[i])
     num = result.toString()
   }
   return (result===2) ? `${result}, Yes`:`${result}, No`
