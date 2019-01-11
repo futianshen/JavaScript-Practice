@@ -24,6 +24,7 @@ function cal(lifenum) {
   if(lifenum.length>1) lifenum = cal(lifenum)
   return lifenum
 } */
+
 console.log(pa('19950527'))
 console.log(pa('19971205'))
 console.log(pa('19960913'))

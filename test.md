@@ -36,6 +36,10 @@
 35. [沙之國](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/16)
 36. [PK 賽](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/17)
 37. [草地上的松鼠](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/22)
+38. [總共需要多少錢](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/20)
+39. [生命靈數](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/19)
+40. [愛有等差](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/21)
+41. [Lisa 的圍巾](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/24)
 
 ### 如何刷題
 解題分為兩個維度
