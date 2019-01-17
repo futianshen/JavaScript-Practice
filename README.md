@@ -40,7 +40,10 @@
 39. [生命靈數](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/19)
 40. [愛有等差](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/21)
 41. [Lisa 的圍巾](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/24)
+42. BMI
 43. [三生萬物](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/26)
+44. 19*9 乘法表
+45. 判斷及格
 
 ### 如何解題
 解題分為兩個維度
