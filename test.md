@@ -40,6 +40,7 @@
 39. [生命靈數](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/19)
 40. [愛有等差](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/21)
 41. [Lisa 的圍巾](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/24)
+43. [三生萬物](http://lidemy-oj.s3-website-ap-southeast-1.amazonaws.com/problems/26)
 
 ### 如何刷題
 解題分為兩個維度

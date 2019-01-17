@@ -7,6 +7,9 @@
     "test": "jest"
   },
   "devDependencies": {
-    "jest": "^23.6.0"
+    "babel-core": "^6.26.3",
+    "babel-jest": "^23.6.0",
+    "jest": "^23.6.0",
+    "regenerator-runtime": "^0.13.1"
   }
 }
